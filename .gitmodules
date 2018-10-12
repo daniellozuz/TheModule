@@ -1,0 +1,3 @@
+[submodule "TheSubmodule"]
+	path = TheSubmodule
+	url = https://github.com/daniellozuz/TheSubmodule
