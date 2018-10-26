@@ -4,3 +4,4 @@
 [submodule "TheSameSubmodule"]
 	path = TheSameSubmodule
 	url = https://github.com/daniellozuz/TheSubmodule
+	fetchRecurseSubmodules = true
